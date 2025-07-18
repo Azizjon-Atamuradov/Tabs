@@ -1,11 +1,14 @@
 import { useState } from 'react'
+import TabTest from './custom tabs/tab-test'
 
 
 function App() {
   
 
   return (
-   <div></div>
+    <div>
+      <TabTest/>
+   </div>
   )
 }
 
